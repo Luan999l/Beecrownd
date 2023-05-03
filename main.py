@@ -8,7 +8,7 @@ soma = 0
 quantidade = 0
 for i in range(6):
   valor = float(input())
-    if valor > 0.0:
+  if valor > 0:
       soma = soma + valor
       quantidade = quantidade + 1
 
