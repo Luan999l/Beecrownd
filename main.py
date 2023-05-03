@@ -19,3 +19,5 @@ print(f"{soma/quantidade : 0.1f}")
 
 
 
+
+
