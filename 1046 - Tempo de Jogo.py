@@ -17,7 +17,6 @@
 
 
 x = input().split()
-
 i, f = x
 
 i = int(x[0])
